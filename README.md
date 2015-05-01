@@ -1,0 +1,2 @@
+# sensu_ssh_check
+指定のSSHログインユーザが存在するか確認するsensu plugin
